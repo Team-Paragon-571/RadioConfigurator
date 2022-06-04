@@ -1,0 +1,3 @@
+﻿namespace FRC.NetworkConfig.Core
+
+
